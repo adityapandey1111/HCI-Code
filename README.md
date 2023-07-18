@@ -10,6 +10,7 @@
 ● By incorporating gestures into Human Computer Interaction, we aim to create a more efficient, enjoyable, and accessible computing experience for everyone.
 
 ● Here is some benefits because of which gesture is efficient over traditional use :
+
   ● Diversification of input methods
   ● Improved user experience
   ● Increased efficiency and productivity
