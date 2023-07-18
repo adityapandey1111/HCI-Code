@@ -1,5 +1,9 @@
 # Human-Computer-Interaction-using-Gestures
 
+## To download and use .exe visit [here](https://human-computer-interaction.netlify.app/)
+
+# Details of Project
+
 ![image](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures/assets/114282369/bbe63706-0b0d-4813-84bc-283125e24615)
 
 ![image](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures/assets/114282369/4e2f3be6-2a86-434b-98b9-91764ce60c61)
