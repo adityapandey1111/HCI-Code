@@ -11,6 +11,8 @@
 
 ● Here is some benefits because of which gesture is efficient over traditional use :
 
-  ● Diversification of input methods
-  ● Improved user experience
-  ● Increased efficiency and productivity
+    ● Diversification of input methods
+    
+    ● Improved user experience
+    
+    ● Increased efficiency and productivity
