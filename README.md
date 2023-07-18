@@ -1,5 +1,15 @@
 # Human-Computer-Interaction-using-Gestures
 
 ## INTRODUCTION
-![image](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures/assets/114282369/969f59d5-0cb0-4b68-9658-6a6c0ca6dc80)
-![image](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures/assets/114282369/f16da48d-0541-432e-b537-6d155d3c128d)
+Human-Computer Interaction (HCI) refers to the study and design of computer technology, interfaces, and systems that are intended to be used by humans.
+ 
+HCI is important because it helps to create systems that are more user-friendly, intuitive, and effective in meeting the needs of their users.
+
+Our project explores the use of gestures as a natural and intuitive way of interacting with computers, as gestures are a powerful means of communication and expression that have been used by humans for centuries.
+
+By incorporating gestures into Human Computer Interaction, we aim to create a more efficient, enjoyable, and accessible computing experience for everyone.
+
+Here is some benefits because of which gesture is efficient over traditional use :
+Diversification of input methods
+Improved user experience
+Increased efficiency and productivity
