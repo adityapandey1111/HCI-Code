@@ -18,3 +18,5 @@
     ● Increased efficiency and productivity
 
 ![image](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures/assets/114282369/4e2f3be6-2a86-434b-98b9-91764ce60c61)
+
+![image](https://github.com/adityapandey1111/Human-Computer-Interaction-using-Gestures/assets/114282369/ef03d0a7-3c01-4561-9b4e-ea3390f11cc3)
